@@ -3,7 +3,10 @@ recordings/
 tmp/
 output/
 whisper.cpp/
-
+myenv/
+audio/
+.vscode/
+__pycache__/
 # Audio files
 *.wav
 *.mp3
