@@ -1,20 +1,25 @@
+# Directories to ignore
 recordings/
 tmp/
+output/
+whisper.cpp/
 
+# Audio files
 *.wav
 *.mp3
 *.m4a
 *.ogg
 *.flac
-*.wav
-*.mp3
-*.m4a
 
+# Test files
 button_test.py
-./led_test.py
-./test_noise_reduction.py
+led_test.py
+test_noise_reduction.py
+generate_noise_reduction_variants.py
 
+# Output files
 *.svg
-output/
 
+# Other files
 .lgd-nfy0
+
