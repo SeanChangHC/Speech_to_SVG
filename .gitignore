@@ -11,8 +11,10 @@ tmp/
 *.m4a
 
 button_test.py
-led_test.py
-test_noise_reduction.py
+./led_test.py
+./test_noise_reduction.py
 
 *.svg
 output/
+
+.lgd-nfy0
