@@ -1,0 +1,21 @@
+# Ignore audio files and folders
+audio/
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Ignore virtual environment
+myenv/
+
+recordings/
+/output.svg
+tmp/
+output/
+
+# Ignore test files
+*test*
+*Test*
+
+/generate_noise_reduction_variants.py
+/.lg

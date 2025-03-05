@@ -1,0 +1,10 @@
+sudo curl -fsSL https://ollama.com/install.sh | sh
+
+   # Check if Ollama service is running
+   sudo systemctl status ollama
+   
+   # If not running, start it
+   sudo systemctl start ollama
+
+
+   ollama pull qwen2.5:0.5b
