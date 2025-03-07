@@ -1,0 +1,32 @@
+#Polar Properties
+#Wed Feb 26 23:18:04 PST 2025
+cnc.safeHeight=5.0
+com.baudrate=115200
+com.serialPort=1
+image.cropBottom=210
+image.cropLeft=130
+image.cropRight=330
+image.cropTop=10
+image.pixelSize=6
+image.scale=1.0
+machine.height=500
+machine.homepoint.y=250
+machine.motors.maxSpeed=1010
+machine.motors.mmPerRev=160
+machine.motors.stepsPerRev=12800
+machine.offX=0
+machine.offY=0
+machine.penSize=0.5
+machine.width=450
+machine.zoomScale=0.7
+paper.height.inches=11.0
+paper.width.inches=8.5
+servo.downValue=1500
+servo.dwell=250
+servo.upValue=2350
+svg.UserScale=1.0
+svg.name=/home/michaelc/PenPlotter-master/output/sentence.svg
+svg.pixelsPerInch=1200.0
+svg.shortestSegment=0.0
+final_project_mode=1
+usb_name=/dev/ttyACM0
